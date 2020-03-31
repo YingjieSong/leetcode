@@ -1,3 +1,8 @@
+# Medium
+&nbsp;|#|Title|Solution
+-|:-:|-|:-:
+:white_check_mark:|2|[Add Two Numbers][2]|[link](solutions/add-two-numbers.md)
+
 # Easy
 &nbsp;|#|Title|Solution
 -|:-:|-|:-:
