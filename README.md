@@ -1,7 +1,8 @@
 # Medium
 &nbsp;|#|Title|Solution
 -|:-:|-|:-:
-:white_check_mark:|2|[Add Two Numbers][2]|[link](solutions/add-two-numbers.md)
+:white_check_mark:|2|[Add Two Numbers][2]|[C](solutions/add-two-numbers.md)
+:white_check_mark:|3|[Longest Substring Without Repeating Characters][3]|[C](solutions/longest-substring-without-repeating-characters.md)
 
 # Easy
 &nbsp;|#|Title|Solution
