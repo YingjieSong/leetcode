@@ -1,3 +1,8 @@
+# [30-Day LeetCoding Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+Date|#|Title|Solution|Difficulty
+-|:-:|-|:-:|-
+April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
+
 # Medium
 &nbsp;|#|Title|Solution
 -|:-:|-|:-:
@@ -40,7 +45,7 @@
 :white_check_mark:|121|[Best Time to Buy and Sell Stock][121]
 &nbsp;|122|[Best Time to Buy and Sell Stock II][122]
 :white_check_mark:|125|[Valid Palindrome][125]
-:white_check_mark:|136|[Single Number][136]
+:white_check_mark:|136|[Single Number][136]|[link](solutions/single-number.md)
 :white_check_mark:|141|[Linked List Cycle][141]
 :white_check_mark:|155|[Min Stack][155]
 &nbsp;|157|[Read N Characters Given Read4 :lock:][157]
