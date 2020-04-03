@@ -2,6 +2,7 @@
 Date|#|Title|Solution|Difficulty
 -|:-:|-|:-:|-
 April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
+April 2nd|202|[Happy Number][202]|[link](solutions/happy-number.md)|Easy
 
 # Medium
 &nbsp;|#|Title|Solution
@@ -69,7 +70,7 @@ April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
 &nbsp;|196|[Delete Duplicate Emails][196]
 &nbsp;|197|[Rising Temperature][197]
 :white_check_mark:|198|[House Robber][198]
-:white_check_mark:|202|[Happy Number][202]
+:white_check_mark:|202|[Happy Number][202]|[link](solutions/happy-number.md)
 :white_check_mark:|203|[Remove Linked List Elements][203]
 :white_check_mark:|204|[Count Primes][204]
 :white_check_mark:|205|[Isomorphic Strings][205]
