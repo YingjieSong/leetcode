@@ -3,6 +3,7 @@ Date|#|Title|Solution|Difficulty
 -|:-:|-|:-:|-
 April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
 April 2nd|202|[Happy Number][202]|[link](solutions/happy-number.md)|Easy
+April 3rd|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)|Easy
 
 # Medium
 &nbsp;|#|Title|Solution
