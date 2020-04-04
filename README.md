@@ -26,7 +26,7 @@ April 3rd|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)|Easy
 :white_check_mark:|28|[Implement strStr()][28]
 :white_check_mark:|35|[Search Insert Position][35]
 :white_check_mark:|38|[Count and Say][38]
-:white_check_mark:|53|[Maximum Subarray][53]
+:white_check_mark:|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)
 :white_check_mark:|58|[Length of Last Word][58]
 :white_check_mark:|66|[Plus One][66]
 :white_check_mark:|67|[Add Binary][67]
