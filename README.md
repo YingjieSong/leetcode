@@ -4,6 +4,7 @@ Date|#|Title|Solution|Difficulty
 April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
 April 2nd|202|[Happy Number][202]|[link](solutions/happy-number.md)|Easy
 April 3rd|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)|Easy
+April 4th|283|[Move Zeroes][283]|[link](solutions/move-zeroes.md)|Easy
 
 # Medium
 &nbsp;|#|Title|Solution
@@ -98,7 +99,7 @@ April 3rd|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)|Easy
 &nbsp;|270|[Closest Binary Search Tree Value :lock:][270]
 &nbsp;|276|[Paint Fence :lock:][276]
 :white_check_mark:|278|[First Bad Version][278]
-:white_check_mark:|283|[Move Zeroes][283]
+:white_check_mark:|283|[Move Zeroes][283]|[link](solutions/move-zeroes.md)
 &nbsp;|290|[Word Pattern][290]
 :white_check_mark:|292|[Nim Game][292]
 &nbsp;|293|[Flip Game :lock:][293]
