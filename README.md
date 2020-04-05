@@ -5,6 +5,7 @@ April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
 April 2nd|202|[Happy Number][202]|[link](solutions/happy-number.md)|Easy
 April 3rd|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)|Easy
 April 4th|283|[Move Zeroes][283]|[link](solutions/move-zeroes.md)|Easy
+April 5th|122|[Best Time to Buy and Sell Stock II][122]|[link](solutions/best-time-to-buy-and-sell-stock-ii.md)|Easy
 
 # Medium
 &nbsp;|#|Title|Solution
@@ -46,7 +47,7 @@ April 4th|283|[Move Zeroes][283]|[link](solutions/move-zeroes.md)|Easy
 :white_check_mark:|118|[Pascal's Triangle][118]
 :white_check_mark:|119|[Pascal's Triangle II][119]
 :white_check_mark:|121|[Best Time to Buy and Sell Stock][121]
-&nbsp;|122|[Best Time to Buy and Sell Stock II][122]
+:white_check_mark:|122|[Best Time to Buy and Sell Stock II][122]|[link](solutions/best-time-to-buy-and-sell-stock-ii.md)
 :white_check_mark:|125|[Valid Palindrome][125]
 :white_check_mark:|136|[Single Number][136]|[link](solutions/single-number.md)
 :white_check_mark:|141|[Linked List Cycle][141]
