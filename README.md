@@ -1,12 +1,3 @@
-# [30-Day LeetCoding Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
-Date|#|Title|Solution|Difficulty
--|:-:|-|:-:|-
-April 1st|136|[Single Number][136]|[link](solutions/single-number.md)|Easy
-April 2nd|202|[Happy Number][202]|[link](solutions/happy-number.md)|Easy
-April 3rd|53|[Maximum Subarray][53]|[link](solutions/maximum-subarray.md)|Easy
-April 4th|283|[Move Zeroes][283]|[link](solutions/move-zeroes.md)|Easy
-April 5th|122|[Best Time to Buy and Sell Stock II][122]|[link](solutions/best-time-to-buy-and-sell-stock-ii.md)|Easy
-
 # Medium
 &nbsp;|#|Title|Solution
 -|:-:|-|:-:
